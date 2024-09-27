@@ -1,0 +1,68 @@
+Linear Classifier
+Acurácia: 85.13%
+Taxa de erro: 14.87%
+Tempo de execução: 5.67 segundos
+
+Linear Classifier + PCA
+Acurácia: 85.21%
+Taxa de erro: 14.79%
+Tempo de execução: 1.00 segundos
+
+Adaline Sigmoid
+Resultados para o dígito 5:
+Acurácia: 95.56%
+Taxa de erro: 4.44%
+Tempo de execução: 29.74 segundos
+
+Adaline Sigmoid + PCA
+Resultados para o dígito 5:
+Acurácia: 96.72%
+Taxa de erro: 3.28%
+Tempo de execução: 8.38 segundos
+
+MLP + Regra do Valor Médio (397 Neurônios)
+Training time: 1614.90 seconds
+Total Accuracy: 94.79%
+Total Error:  5.21%
+
+MLP + Regra da Raiz Quadrada (88 Neurônios)
+Training time: 554.04 seconds
+Total Accuracy: 93.70%
+Total Error:  6.30%
+
+MLP + Regra de Kolmogorov (1569 Neurônios)
+Training time: 7865.60 seconds
+Total Accuracy: 95.41%
+Total Error:  4.59%
+
+MLP + Regra de Fletcher-Gloss (88 Neurônios)
+Training time: 746.32 seconds
+Total Accuracy: 95.10%
+Total Error:  4.90%
+
+MLP + Regra de Baum-Haussler (397 Neurônios)
+Training time: 3103.54 seconds
+Total Accuracy: 94.74%
+Total Error:  5.26%
+
+MLP + PCA (89 Neurônios)
+Training time: 679.73 seconds
+Total Accuracy: 95.11%
+Total Error Rate: 4.89%
+
+MLP + Busca Exaustiva (710 Neurônios)
+Training time: 2100 seconds
+Total Accuracy: 95.7%
+Total Error: 4.30% 
+
+Adaline Sigmoid + Autoencoder
+Resultados para o dígito 5:
+Acurácia: 90.63%
+Taxa de erro: 9.37%
+Tempo de execução: 59.80 segundos
+
+
+
+
+
+

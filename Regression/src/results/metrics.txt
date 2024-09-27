@@ -1,0 +1,25 @@
+-----------------------------------------------------------------------
+
+MLP (154 neurônios) com 3000 iterações:
+
+Mean Absolute Error (MAE): 0.3221428371393559
+Root Mean Square Error: 0.4951108323137367
+R-squared (R2): 0.7548652637255989
+Adjusted R-squared: 0.7512514838296618
+Mean Absolute Percentage Error (MAPE): 161.94825913387677
+Explained Variance Score: 0.7548653038463711
+
+Tempo de treinamento: Total Time: 6.4070 s
+
+-----------------------------------------------------------------------
+
+MLR:
+
+Mean Absolute Error (MAE): 0.45111977519257074
+Root Mean Square Error: 0.6462313480595928
+R-squared (R2): 0.5823850447850815
+Adjusted R-squared: 0.5762285589588173
+Mean Absolute Percentage Error (MAPE): 169.88042827204563
+Explained Variance Score: 0.5823850447850815
+
+Tempo de treinamento: Total Time: 0.0003 s
